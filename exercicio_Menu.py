@@ -1,0 +1,2 @@
+print(">>M E N U   D E   O P E R A Ç Õ E S   M A T E M Á T I C A S<< \n *********************************************************** \n Soma - 1 \n Subtração - 2 \n Multiplicação - 3 \n Divisão - 4 \n Par ou impar - 5 \n Fatorial - 6 \n Primo ou não - 7 \n")
+input("Escolha a opera")
